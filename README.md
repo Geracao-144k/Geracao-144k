@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=475437&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo+à+Geração+144k!+✝️" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ffa9d9&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo+à+Geração+144k!+✝️" />
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Comunidade%20Cristã-1d232e?style=flat-square&logo=discord&logoColor=475437"/>
-  <img src="https://img.shields.io/badge/Estudo%20Bíblico%20Diário-1d232e?style=flat-square&logo=book&logoColor=475437"/>
-  <img src="https://img.shields.io/badge/Devocionais%20e%20Orações-1d232e?style=flat-square&logo=pray&logoColor=475437"/>
-  <img src="https://img.shields.io/badge/Preparação%20para%20a%20Volta%20de%20Cristo-1d232e?style=flat-square&logo=church&logoColor=475437"/>
+  <img src="https://img.shields.io/badge/Comunidade%20Cristã-c49eec?style=flat-square&logo=discord&logoColor=ffa9d9"/>
+  <img src="https://img.shields.io/badge/Estudo%20Bíblico%20Diário-c49eec?style=flat-square&logo=book&logoColor=ffa9d9"/>
+  <img src="https://img.shields.io/badge/Devocionais%20e%20Orações-c49eec?style=flat-square&logo=pray&logoColor=ffa9d9"/>
+  <img src="https://img.shields.io/badge/Preparação%20para%20a%20Volta%20de%20Cristo-c49eec?style=flat-square&logo=church&logoColor=ffa9d9"/>
 </div>
 
 ---
@@ -43,9 +43,9 @@
 ### 🔗 Conecte-se Conosco
 
 <p align="center">
-  <a href="https://discord.gg/geracao144k"><img src="https://img.shields.io/badge/Discord-1d232e?style=for-the-badge&logo=discord&logoColor=475437"></a>
-  <a href="https://www.youtube.com/@Geracao144k"><img src="https://img.shields.io/badge/YouTube-1d232e?style=for-the-badge&logo=youtube&logoColor=475437"></a>
-  <a href="https://www.tiktok.com/@geracao.144k"><img src="https://img.shields.io/badge/TikTok-1d232e?style=for-the-badge&logo=tiktok&logoColor=475437"></a>
+  <a href="https://discord.gg/geracao144k"><img src="https://img.shields.io/badge/Discord-c49eec?style=for-the-badge&logo=discord&logoColor=ffa9d9"></a>
+  <a href="https://www.youtube.com/@Geracao144k"><img src="https://img.shields.io/badge/YouTube-c49eec?style=for-the-badge&logo=youtube&logoColor=ffa9d9"></a>
+  <a href="https://www.tiktok.com/@geracao.144k"><img src="https://img.shields.io/badge/TikTok-c49eec?style=for-the-badge&logo=tiktok&logoColor=ffa9d9"></a>
 </p>
 
 ---
